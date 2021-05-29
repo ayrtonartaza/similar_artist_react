@@ -1,0 +1,24 @@
+.results--container {
+  margin: auto;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px;
+}
+@media screen and (min-width: 360px) {
+  .results--container {
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+}
+@media screen and (min-width: 680px) {
+  .results--container {
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 16px;
+  }
+}
+@media screen and (min-width: 960px) {
+  .results--container {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 16px;
+  }
+}

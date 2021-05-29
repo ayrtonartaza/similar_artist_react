@@ -1,0 +1,8 @@
+#input--search {
+  width: 100%;
+}
+@media screen and (min-width: 800px) {
+  #input--search {
+    width: 700px;
+  }
+}

@@ -1,0 +1,10 @@
+.input-search {
+  border-radius: 8px;
+  border-width: 1px;
+}
+::placeholder {
+  color: rgb(170, 175, 175);
+}
+#form-home {
+  margin-top: 200px;
+}

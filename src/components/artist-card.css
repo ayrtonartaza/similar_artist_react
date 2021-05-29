@@ -1,0 +1,22 @@
+.card-rock {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  position: relative;
+  left: 0;
+  right: 0;
+  margin: auto auto 20px auto;
+}
+.card-rock:hover {
+  box-shadow: 1px 1px 1px 4px rgba(127, 114, 131, 0.4);
+}
+.titulo {
+  position: absolute;
+  color: white;
+  font-size: 24px;
+  top: 70px;
+}
