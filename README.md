@@ -1,1 +1,1 @@
-Deploy☁️:https://cotizadorenreactjs.netlify.app/
+Deploy☁️:https://similar-artist-react.netlify.app/
